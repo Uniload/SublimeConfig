@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"DocBlockr",
+		"GitGutter",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"TypeScript",
+		"UnrealScriptIDE"
+	]
+}
